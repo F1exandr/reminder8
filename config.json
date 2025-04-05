@@ -1,0 +1,9 @@
+{
+  "db_path": "reminder_db.json",
+
+  "secret_key": "you_will_never_guess",
+  
+  "users": {
+    "Flexandr": "123"
+  }
+}
